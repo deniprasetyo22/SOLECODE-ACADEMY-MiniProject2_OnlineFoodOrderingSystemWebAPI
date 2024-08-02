@@ -1,0 +1,6 @@
+@MiniProject2_OnlineFoodOrderingSystemWebAPI_HostAddress = http://localhost:5106
+
+GET {{MiniProject2_OnlineFoodOrderingSystemWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
